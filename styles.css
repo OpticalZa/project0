@@ -47,8 +47,16 @@ table{
 }
 
 .advsub{
-    width: 100px;
-    margin-left: 20px;
+    border: 1px solid darkblue;
+    color: white;
+    height: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #4d90fe;
+    border-radius: 2px;
+    
 }
 
 .adinput{
