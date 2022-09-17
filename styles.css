@@ -42,6 +42,22 @@ div{
     margin: 10px;
 }
 
-.advancedsearch{
-    margin: 10px;
+table{
+    margin-top: 20px;
+}
+
+.advsub{
+    width: 100px;
+    margin-left: 20px;
+}
+
+.adinput{
+    width: 400px;
+    height: 25px;
+    border: 1px solid lightgrey;
+}
+
+td{
+    padding-right: 40px;
+    padding-bottom: 15px;
 }
