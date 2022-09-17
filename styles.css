@@ -6,14 +6,14 @@
     text-align: center;
                     
 }
-#button{
+.mainbutton{
     width: 200px;
     height: 40px;
     border: 0px;
     border-radius: 6px;
-    background-color: rgb(230, 230, 230);
+    background-color: #f8f9fa;
 }
-#button:hover{
+.mainbutton:hover{
     background-color: rgb(206, 206, 206);
 }
 .nav{
@@ -33,8 +33,10 @@ a{
     margin-top: -50px;
     margin-left: -300px;
     width: 600px;
-    height: 100px;
-    text-align: center;              
+    height: auto;
+    text-align: center;  
+    
+               
     
 }
 
@@ -68,4 +70,20 @@ table{
 td{
     padding-right: 40px;
     padding-bottom: 15px;
+}
+
+.mainsub{
+    
+    width: 500px;
+}
+
+.searchbutton{
+    
+    height: 100px;
+          
+}
+
+.floatchild{
+    float: left;
+    margin-left: 50px;
 }
