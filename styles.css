@@ -14,7 +14,7 @@
     background-color: #f8f9fa;
 }
 .mainbutton:hover{
-    background-color: rgb(206, 206, 206);
+    border: 1px solid darkgray;
 }
 .nav{
     margin-top: 20px;
